@@ -1,4 +1,6 @@
+git clone https://github.com/justakazh/sicat.git && cd sicat
 
+pip  install  -r  requirements.txt
 # SiCat - The useful exploit finder
 
 ![SiCat Preview](vendor/preview.png)
