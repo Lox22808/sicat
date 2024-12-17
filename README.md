@@ -84,7 +84,7 @@ python sicat.py -nm nmap_out.xml --packetstorm
 
 ## To-do
 - [ ] Input from nmap result from pipeline
-- [ ] Nmap multiple host support
+- [1 ] Nmap multiple host support
 - [ ] Search NSE Script
 - [ ] Search by PORT
 
