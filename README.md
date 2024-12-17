@@ -90,4 +90,4 @@ python sicat.py -nm nmap_out.xml --packetstorm
 
 ## Contribution
 
-I'm aware that perfection is elusive in coding. If you come across any bugs, feel free to contribute by fixing the code or suggesting new features. Your input is always welcomed and valued.
+I'm aware that perfection is elusive in coding. If you come across any bugs, feel free to contribute by fixing the code or suggesting new features. Your input is always welcomed and valued.~$ python sicat.py --help
